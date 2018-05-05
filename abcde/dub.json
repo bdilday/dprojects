@@ -1,0 +1,14 @@
+{
+	"name": "abcde",
+	"authors": [
+		"Ben Dilday"
+	],
+	"dependencies": {
+		"mir": "~>1.1.2",
+		"mir-algorithm": "~>0.9.5",
+		"itertools": "~>1.1.0"
+	},
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, Ben Dilday",
+	"license": "MIT"
+}

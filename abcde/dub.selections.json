@@ -1,0 +1,10 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"itertools": "1.1.0",
+		"mir": "1.1.2",
+		"mir-algorithm": "0.9.5",
+		"mir-linux-kernel": "1.0.0",
+		"mir-random": "0.4.5"
+	}
+}
